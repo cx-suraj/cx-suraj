@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/github/cx-suraj/DS_and_Algorithm.svg)](https://wakatime.com/badge/github/cx-suraj/DS_and_Algorithm)
-<h1 align="center">Hi 👋, I'm Suraj kuswaha</h1>
 [![wakatime](https://wakatime.com/badge/github/cx-suraj/cx-suraj.svg)](https://wakatime.com/badge/github/cx-suraj/cx-suraj)
+<h1 align="center">Hi 👋, I'm Suraj kuswaha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cx-suraj" alt="cx-suraj" /></a> </p>
