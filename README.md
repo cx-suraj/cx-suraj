@@ -16,3 +16,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cx-suraj&show_icons=true&locale=en&layout=compact" alt="cx-suraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cx-suraj&" alt="cx-suraj" /></p>
+
+<a href=https://# > <img src="https://img.icons8.com/fluency/48/000000/link.png"></img></a>
+<a href=https://twitter.com/manandesai54 > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
+<a href=https://www.linkedin.com/in/suraj--kushwaha/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+<a href=https://instagram.com/# > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+<a href=https://medium.com/# > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+<a href=https://www.facebook.com/# > <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
